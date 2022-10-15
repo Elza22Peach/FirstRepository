@@ -1,2 +1,3 @@
-# FirstRepository
-Знакомство с Git
+﻿# FirstRepository
+Знакомство с Git.
+
